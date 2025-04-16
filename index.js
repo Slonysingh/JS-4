@@ -71,7 +71,7 @@ Sample Output
 2 
 */
 
-let str1 = "Karina Sharma";
+let str1 = "Saloni Singh";
 let Count_Vowel = 0;
 
 for(let i of str1){
@@ -110,7 +110,7 @@ function findLength(Name){
     return count;
 }
 
-let Name = "Karina Sharma";
+let Name = "Saloni Singh";
 console.log("Length Of String : "+ findLength(Name));
 
 /* Q6. Find the Winner 
@@ -215,7 +215,7 @@ function reverse_String(Ks){
     return reverseS;
 
 }
-let Ks = "I am Karina Sharma";
+let Ks = "I am Saloni Singh";
 console.log(reverse_String(Ks));
 
 /* Q10. Match the Strings 
@@ -292,7 +292,7 @@ function Split_the_String(Stri){
     return Stri.split(" ");
 }
 
-let Stri = "I am utkarsh raj";
+let Stri = "I am Saloni Singh";
 let result = Split_the_String(Stri);
 console.log(result);
 
